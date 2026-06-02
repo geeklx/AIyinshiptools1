@@ -1,0 +1,6 @@
+{
+  "name": "视频音频提取器",
+  "description": "从视频中快速、无损提取音轨并保存为 MP3 或 M4A 格式的音视频服务工具",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

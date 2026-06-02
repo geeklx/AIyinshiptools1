@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer record circle representing Vinyl disk spool -->
+    <path
+        android:fillColor="#00F5FF"
+        android:pathData="M54,22 C36.33,22 22,36.33 22,54 C22,71.67 36.33,86 54,86 C71.67,86 86,71.67 86,54 C86,36.33 71.67,22 54,22 Z" />
+
+    <!-- Innermost label cutout -->
+    <path
+        android:fillColor="#131E35"
+        android:pathData="M54,42 C47.37,42 42,47.37 42,54 C42,60.63 47.37,66 54,66 C60.63,66 66,60.63 66,54 C66,47.37 60.63,42 54,42 Z" />
+
+    <!-- Musical note inside -->
+    <path
+        android:fillColor="#FF5A5F"
+        android:pathData="M59,46 L51,46 L51,60 C49.8,59.38 48.44,59 47,59 C43.69,59 41,61.69 41,65 C41,68.31 43.69,71 47,71 C50.31,71 53,68.31 53,65 L53,52 L59,52 L59,46 Z" />
+</vector>
